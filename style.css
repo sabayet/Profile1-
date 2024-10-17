@@ -65,20 +65,9 @@ font-weight:bold;
 
 #d4{font-size: 120%}
 
-  @keyframes slideUp {
-  0% {
-    transform: translateY(100%);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
+  
 
-.slide-up-element {
-  animation: slideUp 2s ease forwards;
-}
+
 
   #d6{color:#54FF00;
   background-color:rgba(0,0,0,0.6) ;
